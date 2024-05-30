@@ -1,0 +1,14 @@
+# REQUIREMENTS
+We need to analyze key indicators for our pizza sales data to gain insights into our business performance. Specifically, we want to calculate the following metrics:
+Total Revinew
+Average Order Value
+Total Pizzas Sold
+Total Oders
+Average Pizza Per Order
+Hourly Trends for total pizzas sold
+Weekly trends for total pizzas sold
+Percentage of pizza sold by category
+Percentage of pizza sold by size
+Total pizza sold by category
+Top 5 best seller by Revenew, Total quantity and total orders
+Bottom 5 best seller by Revenew, Total quantity and total orders
